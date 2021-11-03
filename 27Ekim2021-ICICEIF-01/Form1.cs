@@ -21,11 +21,11 @@ namespace _27Ekim2021_ICICEIF_01
         {
             string kullaniciAdi = "CerenU";
             string parola = "Samsun55";
-
+            
             string kadi = textBox1.Text;
             string pass = textBox2.Text;
 
-            if (kullaniciAdi==kadi)
+            if (kullaniciAdi==kadi || kullaniciAdi.ToUpper()==kadi || kullaniciAdi.ToLower()==kadi)
             {
                 if (parola==pass)
                 {
