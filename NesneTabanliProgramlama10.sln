@@ -83,6 +83,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03112021-SwitchCase-02", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03112021-SwitchCase-03", "03112021-SwitchCase-03\03112021-SwitchCase-03.csproj", "{8FBE287D-6C77-4F98-B073-819DF786968C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-MantıksalOp", "05112021-MantıksalOp\05112021-MantıksalOp.csproj", "{67D63D25-6BD9-49BC-80EF-FF7B9DFE18BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-KararSesBar", "05112021-KararSesBar\05112021-KararSesBar.csproj", "{5BF867F3-171D-41A8-A9D7-D532D80FE19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +253,14 @@ Global
 		{8FBE287D-6C77-4F98-B073-819DF786968C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FBE287D-6C77-4F98-B073-819DF786968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FBE287D-6C77-4F98-B073-819DF786968C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D63D25-6BD9-49BC-80EF-FF7B9DFE18BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D63D25-6BD9-49BC-80EF-FF7B9DFE18BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D63D25-6BD9-49BC-80EF-FF7B9DFE18BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D63D25-6BD9-49BC-80EF-FF7B9DFE18BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
