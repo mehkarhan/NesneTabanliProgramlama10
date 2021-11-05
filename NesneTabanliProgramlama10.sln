@@ -87,6 +87,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-MantıksalOp", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-KararSesBar", "05112021-KararSesBar\05112021-KararSesBar.csproj", "{5BF867F3-171D-41A8-A9D7-D532D80FE19A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-MantıksalOpAnd", "05112021-MantıksalOpAnd\05112021-MantıksalOpAnd.csproj", "{7758D0C7-1EA3-4D39-9CD1-9A770E38C93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05112021-ManOps-And-02", "05112021-ManOps-And-02\05112021-ManOps-And-02.csproj", "{77E79066-C93A-4C7C-B7FB-CDBB22509641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +265,14 @@ Global
 		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF867F3-171D-41A8-A9D7-D532D80FE19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7758D0C7-1EA3-4D39-9CD1-9A770E38C93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7758D0C7-1EA3-4D39-9CD1-9A770E38C93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7758D0C7-1EA3-4D39-9CD1-9A770E38C93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7758D0C7-1EA3-4D39-9CD1-9A770E38C93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E79066-C93A-4C7C-B7FB-CDBB22509641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E79066-C93A-4C7C-B7FB-CDBB22509641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E79066-C93A-4C7C-B7FB-CDBB22509641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E79066-C93A-4C7C-B7FB-CDBB22509641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
