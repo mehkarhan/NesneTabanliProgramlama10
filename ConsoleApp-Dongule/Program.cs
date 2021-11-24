@@ -6,11 +6,13 @@ namespace ConsoleApp_Dongule
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <= 10000; i=i+3)
+            for (int i = 1; i <= 10000; i*=2)// i=i*2
             {
 
                 Console.WriteLine("{0}",i);
+               // sayi1=sayi2+2  
 
+                  //  sayi1 += 2  --> sayi1=sayi1+2
             }
 
 
