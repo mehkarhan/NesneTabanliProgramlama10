@@ -36,7 +36,9 @@ namespace _22Eylul2021_Listbox
 
         private void lstBxListele_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //txtEkle.Text = lstBxListele.SelectedItem.ToString();
+            txtEkle.Text = lstBxListele.SelectedIndex.ToString();
         }
+
+         
     }
 }
